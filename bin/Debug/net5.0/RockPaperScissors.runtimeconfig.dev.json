@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\psiau\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\psiau\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.exe
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.deps.json
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.json
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.runtimeconfig.dev.json
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.dll
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\bin\Debug\net5.0\ref\RockPaperScissors.dll
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\bin\Debug\net5.0\RockPaperScissors.pdb
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csprojAssemblyReference.cache
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.AssemblyInfo.cs
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.dll
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\ref\RockPaperScissors.dll
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.pdb
+C:\source\codeworks\week10\day1\afternoon\RockPaperScissors\obj\Debug\net5.0\RockPaperScissors.genruntimeconfig.cache
